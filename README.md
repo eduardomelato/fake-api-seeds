@@ -7,7 +7,7 @@ dados local presente no aplicativo mobile.
 # Por quê?
 
 Para o projeto mobile desenvolvido seria necessário sincronizar um banco de dados local 
-(com persistência de dados) com um banco de dados na nuvem. Para simular o banco na nuvem,
+(com persistência de dados) com um banco de dados na nuvem. Dessa maneira, para simular o banco na nuvem,
 foi desenvolvida essa API utilizando do Node.JS, Knex e PostgreSQL. Dessa maneira pude sincronizar
 os dois bancos de dados
 ## Referência
